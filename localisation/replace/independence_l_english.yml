@@ -1,0 +1,16 @@
+﻿l_english:
+ # countries_l_english.yml
+ RAJ_fascism:0 "Free India"
+ RAJ_fascism_DEF:0 "Free India"
+ RAJ_democratic:0 "India"
+ RAJ_democratic_DEF:0 "India"
+ RAJ_neutrality:0 "India"
+ RAJ_neutrality_DEF:0 "India"
+ RAJ_communism:0 "Indian People's Republic"
+ RAJ_communism_DEF:0 "The Indian People's Republic"
+ RAJ_fascism_ADJ:0 "Indian"
+ RAJ_democratic_ADJ:0 "Indian"
+ RAJ_neutrality_ADJ:0 "Indian"
+ RAJ_communism_ADJ:0 "Indian"
+ # strategic_region_names_l_english.yml
+ STRATEGICREGION_3:1 "Scotland"
