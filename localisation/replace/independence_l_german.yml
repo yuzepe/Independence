@@ -1,0 +1,16 @@
+﻿l_german:
+ # countries_l_german.yml
+ RAJ_fascism:0 "Nationalistisches Indien"
+ RAJ_democratic:0 "Indien"
+ RAJ_neutrality:0 "Indien"
+ RAJ_communism:0 "Volksrepublik Indien"
+ RAJ_fascism_ADJ:0 "Indisch"
+ RAJ_democratic_ADJ:0 "Indisch"
+ RAJ_neutrality_ADJ:0 "Indisch"
+ RAJ_communism_ADJ:0 "Indisch"
+ RAJ_fascism_DEF:0 "Das Nationalistische Indien"
+ RAJ_democratic_DEF:0 "Indien"
+ RAJ_neutrality_DEF:0 "Indien"
+ RAJ_communism_DEF:0 "Die Volksrepublik Indien"
+ # strategic_region_names_l_german.yml
+ STRATEGICREGION_3:1 "Schottland"
