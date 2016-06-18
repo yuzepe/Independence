@@ -1,0 +1,71 @@
+﻿division_template = {
+	name = "División de Infanteria"		# Only had a national police force since 1904
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+}
+
+###### OOB ######
+units = {
+	division = {			
+		name = "Panama Canal Force"		
+		location = 7617
+		division_template = "División de Infanteria"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.15
+
+	}
+	# CARRIBEAN FLEET -- Panama Canal
+	navy = {					
+		name = "Caribbean Fleet"				
+		base = 7617
+		location = 7617 # Canal Zone
+		# 26th Destroyer Division				
+		ship = { name = "PA Borie" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = PAN } } }		
+		ship = { name = "PA Breckinridge" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = PAN } } }		
+		ship = { name = "PA Barney" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = PAN } } }		
+		ship = { name = "PA Blakeley" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = PAN } } }		
+		ship = { name = "PA Biddle" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = PAN } } }		
+		# 27th Destroyer Division				
+		ship = { name = "PA Tattnall" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = PAN } } }		
+		ship = { name = "PA J Fred Talbott" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = PAN } } }		
+		ship = { name = "PA Dahlgren" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = PAN } } }		
+		ship = { name = "PA Goff" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = PAN } } }		
+		ship = { name = "PA Barry" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = PAN } } }		
+	}	
+}
+
+air_wings = {
+	### 19th Composite Wing -- Panama Canal
+	685 = { 
+		# 16th Pursuit Group 
+		fighter_equipment_0 =  {
+			owner = "PAN" 
+			amount = 96
+		}
+		# 6th Composite Group 
+		tac_bomber_equipment_0 = {
+			owner = "PAN" 
+			amount = 12
+		}
+	}
+}
+
+##### No notable armed forces #####
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_0
+			creator = "PAN"
+		}
+		requested_factories = 1
+		progress = 0.51
+		efficiency = 100
+	}
+}

@@ -1,0 +1,80 @@
+﻿division_template = {
+	name = "Alfurqat Almasha"		# Infantry Division 
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+}
+division_template = {
+	name = "Alfurqat Alfursan"		# Cavalry Division
+
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+		cavalry = { x = 2 y = 0 }
+		cavalry = { x = 2 y = 1 }
+	}
+}
+
+
+units = {
+	##### Royal Yemeni Army #####
+	division = {
+		name = "Alfurqat Alfursan Almalika"
+		location = 10840
+		division_template = "Alfurqat Alfursan"		
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+
+	}
+	division = {
+		name = "Alfurqat Almasha Almalika"
+		location = 10840
+		division_template = "Alfurqat Almasha"		
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+
+	}
+	#Aden
+	division= {	
+		name = "Aden Defense Force"
+		location = 12821
+		division_template = "Alfurqat Almasha"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.3
+
+	}
+}
+
+air_wings = {
+	659 = { 
+		### RAF Aden
+		fighter_equipment_0 = {
+			owner = "YEM" 
+			amount = 24
+		}
+		CAS_equipment_1 = {
+			owner = "YEM" 
+			amount = 16
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_0
+			creator = "YEM"
+		}
+		requested_factories = 1
+		progress = 0.25
+		efficiency = 100
+	}
+}

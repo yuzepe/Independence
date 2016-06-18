@@ -1,0 +1,138 @@
+﻿division_template = {
+	name = "Juntuán"				# Represents: two-division infantry corps (generally poorly-equipped militias), and local militia groups
+
+	regiments = {
+		infantry = { x = 0 y = 0 }	# Note: Chinese divisions were brigade-sized compared other nations' armies
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+	}
+}
+division_template = {
+	name = "Qibing Jun"		# Represents two-division cavalry corps (generally poorly-equipped)
+
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+	}
+}
+
+
+### OOB ###
+units = {
+	#Guangdong/Guangxi units - 21 divisions
+	division = {
+		name = "62 Juntuán"
+		location = 10404
+		start_experience_factor = 0.1
+		division_template = "Juntuán"
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "63 Juntuán"
+		location = 1047
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "64 Juntuán"
+		location = 7137
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "65 Juntuán"
+		location = 9938
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "66 Juntuán"
+		location = 994
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "67 Juntuán"
+		location = 1047
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.3
+
+	}
+	division = {
+		name = "Guangzhou Jingbei"
+		location = 1047
+		division_template = "Juntuán"		# Provincial militia unit (poor equipment and training)
+		start_equipment_factor = 0.2
+
+	}
+	division = {
+		name = "Hainan Jingbei"
+		location = 994
+		division_template = "Juntuán"		# Provincial militia unit (poor equipment and training)
+		start_equipment_factor = 0.2
+
+	}
+	division = {
+		name = "Guilin Jingbei"
+		location = 10404
+		division_template = "Juntuán"		# Provincial militia unit (poor equipment and training)
+		start_equipment_factor = 0.2
+
+	}
+	###Ex-Brit Troops
+	division= {	
+		name = "68 Juntuán"
+		location = 10062 #Hongkong
+		division_template = "Juntuán"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.2
+
+	}
+	navy = {				
+		name = "China Fleet"
+		base = 10062
+		location = 10062 # Hong Kong			
+		ship = { name = "HMS Eagle" definition = carrier equipment = { carrier_1 = { amount = 1 owner = GXC } } 
+			air_wings = {
+				cv_fighter_equipment_0 =  { owner = "GXC" amount = 18 }
+				cv_nav_bomber_equipment_1 =  { owner = "GXC" amount = 18 }
+			}
+		}
+		ship = { name = "HMS Kent" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = GXC } } }	
+		ship = { name = "HMS Cornwall" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = GXC } } }	
+		ship = { name = "HMS Dorsetshire" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = GXC } }	}
+		ship = { name = "HMS Caledon" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GXC } } }
+		ship = { name = "HMS Calypso" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GXC } } }
+		# Singapore & Hong Kong Division
+		ship = { name = "HMS Scout" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GXC } } }		
+		ship = { name = "HMS Tenedos" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GXC } } }		
+		ship = { name = "HMS Thanet" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GXC } } }		
+		ship = { name = "HMS Thracian" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GXC } } }		
+	}				
+}
+
+### STARTING PRODUCTION ###
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_0
+			creator = "GXC"
+		}
+		requested_factories = 1
+		progress = 0.79
+		efficiency = 100
+	}	
+}

@@ -1,0 +1,168 @@
+﻿division_template = {
+	name = "Infantry Division"			# Infantry Division
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+}
+division_template = {
+	name = "Cavalry Brigade"
+
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 0 y = 2 }
+	}
+}
+
+
+units = {
+	#Egypt
+	division= {	
+		name = "Cairo Force"
+		location = 7011
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+
+	}
+	division= {	
+		name = "Canal Brigade"
+		location = 1155
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.15
+
+	}
+	division= {	
+		name = "The Cavalry Brigade"
+		location = 4076
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.3
+
+	}
+	#Sudan
+	division= {	
+		name = "Sudan Defense Force"
+		location = 12806
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.4
+
+	}
+	
+	### MEDITERRANIAN FLEET ###			
+	navy = {				
+		name = "Mediterranean Fleet"
+		base = 4076
+		location = 4076 # Alexandria
+		ship = { name = "KES Glorious" definition = carrier equipment = { carrier_1 = { amount = 1 owner = EGY } } 
+			air_wings = {
+				cv_fighter_equipment_0 =  { owner = "EGY" amount = 6 } #historical 9
+				cv_nav_bomber_equipment_1 =  { owner = "EGY" amount = 24 } #historical 36
+			}
+		}
+		ship = { name = "KES Warspite" definition = battleship equipment = { battleship_1 = { amount = 1 owner = EGY } } }			
+		ship = { name = "KES Barham" definition = battleship equipment = { battleship_1 = { amount = 1 owner = EGY } } }						
+		ship = { name = "KES Malaya" definition = battleship equipment = { battleship_1 = { amount = 1 owner = EGY } } }					
+		ship = { name = "KES Devonshire" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = EGY } } }
+		ship = { name = "KES Shropshire" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = EGY } } }
+		ship = { name = "KES Sussex" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = EGY } } }		
+		ship = { name = "KES Arethusa" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Galatea" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = EGY } } }
+		ship = { name = "KES Coventry" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = EGY } } }
+		ship = { name = "KES Wolsey" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Stronghold" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }		
+		### 1st Destroyer Flotilla
+		ship = { name = "KES Stuart" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }	
+		# Destroyer Division 1
+		ship = { name = "KES Comet" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }			# to RCN as Restigouche, 1938
+		ship = { name = "KES Crusader" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }			# to RCN as Ottawa, 1938	
+		ship = { name = "KES Cygnet" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }			# to RCN as St Laurent, 1937
+		ship = { name = "KES Crescent" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }			# to RCN as Fraser, 1937
+		# Destroyer Division 2
+		ship = { name = "KES Walker" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Vimy" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Bruce" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }			
+		### 2nd Destroyer Flotilla
+		# Destroyer Division 3
+		ship = { name = "KES Malcolm" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Veteran" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Wren" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }	
+		### 3rd Destroyer Flotilla
+		ship = { name = "KES Exmouth" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EGY } } }	
+		# Destroyer Division 5
+		ship = { name = "KES Electra" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Eclipse" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Esk" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Express" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EGY } } }											# to RCN as Gatineau, 1943	
+		# Destroyer Division 6
+		ship = { name = "KES Encounter" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Escapade" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Escort" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Echo" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = EGY } } }											# to GRE as Navarinon, 1944
+		### 4th Destroyer Flotilla
+		ship = { name = "KES Duncan" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }			
+		# Destroyer Division 7
+		ship = { name = "KES Decoy" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }			# to RCN as Kootenay, 1943
+		ship = { name = "KES Defender" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }
+		ship = { name = "KES Duchess" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Delight" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }			
+		# Destroyer Division 8
+		ship = { name = "KES Dainty" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Daring" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Diamond" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Diana" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = EGY } } }			# to RCN as Margaree, 1940	
+	}				
+	navy = {				
+		name = "1st Submarine Flotilla"			
+		base = 4076 
+		location = 4076 # Alexandria
+		# Submarine Division 11
+		ship = { name = "KES Sealion" definition = submarine equipment = { submarine_1 = { amount = 1 owner = EGY } } }		
+		ship = { name = "KES Shark" definition = submarine equipment = { submarine_1 = { amount = 1 owner = EGY } } }		
+		ship = { name = "KES Snapper" definition = submarine equipment = { submarine_1 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Salmon" definition = submarine equipment = { submarine_1 = { amount = 1 owner = EGY } } }		
+		ship = { name = "KES Porpoise" definition = submarine equipment = { submarine_1 = { amount = 1 owner = EGY } } }		
+		# Submarine Division 12
+		ship = { name = "KES Otway" definition = submarine equipment = { submarine_1 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Osiris" definition = submarine equipment = { submarine_1 = { amount = 1 owner = EGY } } }	
+		ship = { name = "KES Oswald" definition = submarine equipment = { submarine_1 = { amount = 1 owner = EGY } } }			
+	}		
+}
+
+air_wings = {
+	447 = { 
+		### AHQ Egypt
+		fighter_equipment_0 = {
+			owner = "EGY" 
+			amount = 72
+		}
+		tac_bomber_equipment_0 = {
+			owner = "EGY" 
+			amount = 48
+		}
+		CAS_equipment_1 = {
+			owner = "EGY" 
+			amount = 64
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_0
+			creator = "EGY"
+		}
+		requested_factories = 1
+		progress = 0.22
+		efficiency = 100
+	}
+}

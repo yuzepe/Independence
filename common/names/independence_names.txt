@@ -1,0 +1,33 @@
+﻿###############################################################
+# Middle East
+###############################################################
+ISR = {
+	male = {
+		names = { 
+			Noam Ori David Yosef Eitan Itai Ariel Daniel Yonatan Moshe Abed Adam
+		}
+	}
+	female = {
+		names = { }
+	}
+	surnames = { 
+		Cohen Levi Mizrachi Peretz Biton Dahan Avraham Friedman Malka Azoulay Katz Hadad
+	}
+	callsigns = { }
+}
+
+###############################################################
+# Asia
+###############################################################
+# mostly NEP names
+RAJ = {
+	male = {
+		names = { Aarav Reyansh Vivaan Ayaan Atharv Sai Advik Arjun
+		Bhimsen Amar Ranjur Bhakti Jang Renaudip Shamsher "Bir Shamsher" "Deva Shamsher" "Chandra Shamsher" "Bhim Shamsher"  }
+	}
+	female = {
+		names = { }
+	}
+	surnames = { Devi Singh Kumar Das Kaur Thapa "Singh Thapa" Rana "Bahadur Rana"  }
+	callsigns = { }
+}
