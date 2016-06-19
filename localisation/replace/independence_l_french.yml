@@ -1,0 +1,16 @@
+﻿l_french:
+ # countries_l_french.yml
+ RAJ_fascism:0 "Inde nationaliste"
+ RAJ_fascism_DEF:0 "Inde nationaliste"
+ RAJ_democratic:0 "Inde"
+ RAJ_democratic_DEF:0 "Inde"
+ RAJ_democratic:0 "Inde"
+ RAJ_democratic_DEF:0 "Inde"
+ RAJ_communism:0 "République populaire d'Inde"
+ RAJ_communism_DEF:0 "La République populaire d'Inde"
+ RAJ_fascism_ADJ:0 "indienne"
+ RAJ_democratic_ADJ:0 "indienne"
+ RAJ_neutrality_ADJ:0 "indienne"
+ RAJ_communism_ADJ:0 "indienne"
+ # strategic_region_names_l_french.yml
+ STRATEGICREGION_3:1 "Écosse"

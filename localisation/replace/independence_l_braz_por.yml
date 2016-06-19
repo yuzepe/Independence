@@ -1,0 +1,16 @@
+﻿l_braz_por:
+ # countries_l_braz_por.yml
+ RAJ_fascism:0 "Índia Nacionalista"
+ RAJ_fascism_DEF:0 "India Nacionalista"
+ RAJ_democratic:0 "Índia"
+ RAJ_democratic_DEF:0 "India"
+ RAJ_neutrality:0 "Índia"
+ RAJ_neutrality_DEF:0 "India"
+ RAJ_communism:0 "República Popular da Índia"
+ RAJ_communism_DEF:0 "A República Popular da Índia"
+ RAJ_fascism_ADJ:0 "Indiano"
+ RAJ_democratic_ADJ:0 "Indiano"
+ RAJ_neutrality_ADJ:0 "Indiano"
+ RAJ_communism_ADJ:0 "Indiano"
+ # strategic_region_names_l_braz_por.yml
+ STRATEGICREGION_3:1 "Escócia"

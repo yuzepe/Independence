@@ -1,0 +1,16 @@
+﻿l_spanish:
+ # countries_l_spanish.yml
+ MDG_fascism:0 "Madagasikara"
+ MDG_fascism_DEF:0 "The Madagasikara"
+ MDG_democratic:0 "Republic of Madagascar"
+ MDG_democratic_DEF:0 "The Republic of Madagascar"
+ MDG_communism:0 "Socialist Republic of Madagascar"
+ MDG_communism_DEF:0 "The Socialist Republic of Madagascar"
+ MDG_neutrality:0 "Madagascar"
+ MDG_neutrality_DEF:0 "Madagascar"
+ MDG_fascism_ADJ:0 "Madagassian"
+ MDG_democratic_ADJ:0 "Madagassian"
+ MDG_communism_ADJ:0 "Madagassian"
+ MDG_neutrality_ADJ:0 "Madagassian"
+ # victory_points_l_spanish.yml
+ VICTORY_POINTS_5128:0 "Antananarivo"

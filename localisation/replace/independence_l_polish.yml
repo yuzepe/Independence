@@ -1,0 +1,16 @@
+﻿l_polish:
+ # countries_l_polish.yml
+ RAJ_fascism:0 "Nacjonalistyczne Państwo Indyjskie"
+ RAJ_fascism_DEF:0 "Nacjonalistyczne Państwo Indyjskie"
+ RAJ_democratic:0 "Państwo Indyjskie"
+ RAJ_democratic_DEF:0 "Państwo Indyjskie"
+ RAJ_neutrality:0 "Cesarstwo Indyjskie"
+ RAJ_neutrality_DEF:0 "Cesarstwo Indyjskie"
+ RAJ_communism:0 "Indyjska Republika Ludowa"
+ RAJ_communism_DEF:0 "Indyjska Republika Ludowa"
+ RAJ_fascism_ADJ:0 "indyj."
+ RAJ_democratic_ADJ:0 "indyj."
+ RAJ_neutrality_ADJ:0 "indyj."
+ RAJ_communism_ADJ:0 "indyj."
+ # strategic_region_names_l_polish.yml
+ STRATEGICREGION_3:1 "Szkocja"
