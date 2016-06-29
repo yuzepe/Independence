@@ -140,3 +140,31 @@ LKA = {
 	color = rgb { 141 32 41 }
 	color_ui = rgb { 141 32 41 }
 }
+LAO = {
+	color = rgb { 0 40 104 }
+	color_ui = rgb { 0 40 104 }
+}
+VNM = {
+	color = rgb { 218 37 29 }
+	color_ui = rgb { 218 37 29 }
+}
+TWN = {
+	color = rgb { 254 0 0 }
+	color_ui = rgb { 254 0 0 }
+}
+MYS = {
+	color = rgb { 1 0 102 }
+	color_ui = rgb { 1 0 102 }
+}
+IND = {
+	color = rgb { 206 17 38 }
+	color_ui = rgb { 206 17 38 }
+}
+PNG = {
+	color = rgb { 252 209 22 }
+	color_ui = rgb { 252 209 22 }
+}
+JAM = {
+	color = rgb { 0 155 58 }
+	color_ui = rgb { 0 155 58 }
+}

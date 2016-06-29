@@ -675,3 +675,143 @@ LKA = {
 		}
 	}	
 }
+
+LAO = {
+	army = {
+		male = {
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_2.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_3.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_5.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_1.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_2.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_3.dds"
+		}
+	}	
+}
+
+VNM = {
+	army = {
+		male = {
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_2.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_3.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_5.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_1.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_2.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_3.dds"
+		}
+	}	
+}
+
+TWN = {
+	army = {
+		male = {
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_2.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_3.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_5.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_1.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_2.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_3.dds"
+		}
+	}	
+}
+
+MYS = {
+	army = {
+		male = {
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_2.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_3.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_5.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_1.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_2.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_3.dds"
+		}
+	}	
+}
+
+IND = {
+	army = {
+		male = {
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_2.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_3.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_5.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_1.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_2.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_3.dds"
+		}
+	}	
+}
+
+PNG = {
+	army = {
+		male = {
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_2.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_3.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_land_5.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_1.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_2.dds"
+			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_3.dds"
+		}
+	}	
+}
+
+JAM = {
+	army = {
+		male = {
+			"gfx/leaders/South America/Portrait_South_America_Generic_land_1.dds"
+			"gfx/leaders/South America/Portrait_South_America_Generic_land_2.dds"
+			"gfx/leaders/South America/Portrait_South_America_Generic_land_3.dds"
+			"gfx/leaders/South America/Portrait_South_America_Generic_land_4.dds"
+			"gfx/leaders/South America/Portrait_South_America_Generic_land_5.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/South America/Portrait_South_America_Generic_navy_1.dds"
+			"gfx/leaders/South America/Portrait_South_America_Generic_navy_2.dds"
+			"gfx/leaders/South America/Portrait_South_America_Generic_navy_3.dds"
+		}
+	}
+}
