@@ -1,6 +1,6 @@
 state={
 	id=548
-	name="STATE_548"
+	name="STATE_548" #Uganda
 	resources={
 		rubber=6.000
 	}
@@ -14,7 +14,7 @@ state={
 
 		}
 		victory_points = {
-			3854 1 
+			12989 1 
 		}
 		add_core_of = UGA
 	}

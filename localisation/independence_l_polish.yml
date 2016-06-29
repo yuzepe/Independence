@@ -1,4 +1,17 @@
 ﻿l_polish:
+ # victory_points_l_polish.yml
+ VICTORY_POINTS_5128:0 "Antananarivo"
+ VICTORY_POINTS_4989:0 "Banjul"
+ VICTORY_POINTS_12891:0 "Malabo"
+ VICTORY_POINTS_1903:0 "Kinshasa"
+ VICTORY_POINTS_4879:0 "Windhoek"
+ VICTORY_POINTS_8214:0 "Gaborone"
+ VICTORY_POINTS_12989:0 "Kampala"
+ VICTORY_POINTS_5034:0 "Nouakchott"
+ VICTORY_POINTS_12830:0 "Bangui"
+ VICTORY_POINTS_10906:0 "Paramaribo"
+ VICTORY_POINTS_4982:0 "Georgetown"
+ VICTORY_POINTS_2077:0 "Belize City"
  # countries_l_polish.yml
  MDG_fascism:0 "Madagasikara"
  MDG_fascism_DEF:0 "The Madagasikara"
@@ -12,8 +25,6 @@
  MDG_democratic_ADJ:0 "Madagassian"
  MDG_communism_ADJ:0 "Madagassian"
  MDG_neutrality_ADJ:0 "Madagassian"
- # victory_points_l_polish.yml
- VICTORY_POINTS_5128:0 "Antananarivo"
  NGA_fascism:0 "Nigeria"
  NGA_fascism_DEF:0 "Nigeria"
  NGA_democratic:0 "Republic of Nigeria"

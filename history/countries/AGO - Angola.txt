@@ -86,7 +86,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "José Eduardo dos Santos"
+	name = "JosÃ© Eduardo dos Santos"
 	desc = ""
 	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_2.dds"
 	ideology = liberalism
@@ -95,7 +95,7 @@ create_country_leader = {
 	}
 }
 create_country_leader = {
-	name = "José Eduardo dos Santos"
+	name = "JosÃ© Eduardo dos Santos"
 	desc = ""
 	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_1.dds"
 	ideology = leninism
@@ -104,7 +104,7 @@ create_country_leader = {
 	}
 }
 create_country_leader = {
-	name = "José Eduardo dos Santos"
+	name = "JosÃ© Eduardo dos Santos"
 	desc = ""
 	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
 	ideology = fascism_ideology
@@ -113,7 +113,7 @@ create_country_leader = {
 	}
 }
 create_country_leader = {
-	name = "José Eduardo dos Santos"
+	name = "JosÃ© Eduardo dos Santos"
 	desc = ""
 	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_2.dds"
 	ideology = despotism

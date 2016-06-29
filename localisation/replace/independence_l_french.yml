@@ -12,5 +12,15 @@
  RAJ_democratic_ADJ:0 "indienne"
  RAJ_neutrality_ADJ:0 "indienne"
  RAJ_communism_ADJ:0 "indienne"
+ # state_names_l_french.yml
+ STATE_454:0 "Israel"
+ STATE_541:0 "Namibia"
+ STATE_542:0 "Botswana"
+ STATE_546:0 "Tanzania"
+ STATE_296:0 "Guinea-Bissau"
+ STATE_311:0 "Belize"
+ STATE_687:0 "Guyana"
  # strategic_region_names_l_french.yml
  STRATEGICREGION_3:1 "Écosse"
+ # victory_points_l_french.yml
+ VICTORY_POINTS_5117:0 "Kinshasa"

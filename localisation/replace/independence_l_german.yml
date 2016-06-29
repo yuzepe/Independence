@@ -14,5 +14,13 @@
  RAJ_communism_DEF:0 "Die Volksrepublik Indien"
  # state_names_l_german.yml
  STATE_454:0 "Israel"
+ STATE_541:0 "Namibia"
+ STATE_542:0 "Botswana"
+ STATE_546:0 "Tansania"
+ STATE_296:0 "Guinea-Bissau"
+ STATE_311:0 "Belize"
+ STATE_687:0 "Guyana"
  # strategic_region_names_l_german.yml
  STRATEGICREGION_3:1 "Schottland"
+ # victory_points_l_german.yml
+ VICTORY_POINTS_5117:0 "Kinshasa"

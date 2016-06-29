@@ -13,7 +13,7 @@ state={
 	history={
 		owner = SUR
 		victory_points = {
-			1928 1 
+			10906 1 
 		}
 		buildings = {
 			infrastructure = 3

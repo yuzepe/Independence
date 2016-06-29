@@ -9,7 +9,7 @@ state={
 	history={
 		owner = MRT
 		victory_points = {
-			1115 1 
+			5034 1 
 		}
 		buildings = {
 			infrastructure = 1

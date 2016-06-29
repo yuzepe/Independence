@@ -12,5 +12,15 @@
  RAJ_democratic_ADJ:0 "Indiano"
  RAJ_neutrality_ADJ:0 "Indiano"
  RAJ_communism_ADJ:0 "Indiano"
+ # state_names_l_braz_por.yml
+ STATE_454:0 "Israel"
+ STATE_541:0 "Namibia"
+ STATE_542:0 "Botswana"
+ STATE_546:0 "Tanzania"
+ STATE_296:0 "Guinea-Bissau"
+ STATE_311:0 "Belize"
+ STATE_687:0 "Guyana"
  # strategic_region_names_l_braz_por.yml
  STRATEGICREGION_3:1 "Escócia"
+ # victory_points_l_braz_por.yml
+ VICTORY_POINTS_5117:0 "Kinshasa"
