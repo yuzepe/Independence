@@ -21,12 +21,12 @@ division_template = {
 }
 
 units = {
-	division= {
-		name = "Infantry Division"
-		location = 8193
+	division= {	
+		name = "Troupes de Gabon"	
+		location = 5139
 		division_template = "Infantry Division"
-		start_experience_factor = 0.1
-		start_equipment_factor = 0.5
+		start_equipment_factor = 0.15
+
 	}
 }
 

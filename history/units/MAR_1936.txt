@@ -21,12 +21,61 @@ division_template = {
 }
 
 units = {
-	division= {
-		name = "Infantry Division"
+	division = {			
+		name = "Division de Ceuta"		
+		location = 9945
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.8
+
+	}			
+	division = {			
+		name = "Division de Melilla"		
+		location = 12100
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.8
+
+	}		
+	division= {	
+		name = "Division de Meknès"
 		location = 7069
 		division_template = "Infantry Division"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.5
+
+	}
+	division= {	
+		name = "Division de Casablanca"	
+		location = 7069
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.3
+
+	}
+	division= {	
+		name = "Division de Fès"
+		location = 7100
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.3
+
+	}
+	division= {	
+		name = "Division de Marrakech"	
+		location = 7069
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.3
+
+	}
+	division= {	
+		name = "Cavalry de Maroc"
+		location = 7100
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.3
+
 	}
 }
 

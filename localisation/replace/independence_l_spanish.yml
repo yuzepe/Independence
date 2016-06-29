@@ -20,7 +20,16 @@
  STATE_296:0 "Guinea-Bissau"
  STATE_311:0 "Belize"
  STATE_687:0 "Guyana"
+ STATE_268:0 "Djibouti"
+ STATE_269:0 "Somaliland"
+ STATE_559:0 "Central Somalia"
+ STATE_295:0 "Southern Congo"
+ STATE_718:0 "Eastern Congo"
+ STATE_660:0 "Central Africa"
+ STATE_699:0 "Western Sahara"
+ STATE_290:0 "Northern Morocco"
  # strategic_region_names_l_spanish.yml
  STRATEGICREGION_3:1 "Escocia"
  # victory_points_l_spanish.yml
  VICTORY_POINTS_5117:0 "Kinshasa"
+ VICTORY_POINTS_8245:0 "Maputo"

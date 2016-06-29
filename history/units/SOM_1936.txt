@@ -21,12 +21,27 @@ division_template = {
 }
 
 units = {
-	division= {
-		name = "Infantry Division"
-		location = 12991
+	division= {	
+		name = "2a Divisione Somalia"
+		location = 11014
 		division_template = "Infantry Division"
-		start_experience_factor = 0.1
-		start_equipment_factor = 0.5
+		start_experience_factor = 0.2
+	}
+	division= {	
+		name = "3a Divisione Somalia"
+		location = 2063
+		division_template = "Infantry Division"
+	}
+	division= {	
+		name = "4a Divisione Somalia"
+		location = 2063
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+	}
+	division= {	
+		name = "1a Divisione Somalia"
+		location = 2020
+		division_template = "Infantry Division"
 	}
 }
 

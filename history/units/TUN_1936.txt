@@ -21,12 +21,67 @@ division_template = {
 }
 
 units = {
-	division= {
-		name = "Infantry Division"
+	division= {	
+		name = "Division de Tunis"
 		location = 11969
 		division_template = "Infantry Division"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.5
+
+	}
+	navy = {				
+		name = "Attack Force Légère"			
+		base = 9994 
+		location = 9994 # Bizerte, Tunisia	
+		ship = { name = "La Galissonnière" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = TUN } } }	# La Galissonnière variant
+		ship = { name = "Emile-Bertin" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = TUN } } }
+		# 1e Division des Contre-Torpilleurs
+		ship = { name = "Lion" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = TUN } } }
+		ship = { name = "Vauban" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = TUN } } }
+		ship = { name = "Bison" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = TUN } } }
+		# 3e Division des Contre-Torpilleurs
+		ship = { name = "Guépard" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = TUN } } }
+		ship = { name = "Valmy" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = TUN } } }
+		ship = { name = "Verdun" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = TUN } } }
+		# 6e Division des Contre-Torpilleurs
+		ship = { name = "Aigle" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = TUN } } }
+		ship = { name = "Milan" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = TUN } } }
+		ship = { name = "Épervier" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = TUN } } }
+	}		
+	navy = {				
+		name = "6ème Escadron Soumarins"			
+		base = 9994 
+		location = 9994 # Bizerte, Tunisia	
+		# 9e Division des Sous-Marins
+		ship = { name = "Caïman" definition = submarine equipment = { submarine_1 = { amount = 1 owner = TUN } } }				
+		ship = { name = "Morse" definition = submarine equipment = { submarine_1 = { amount = 1 owner = TUN } } }				
+		ship = { name = "Souffleur" definition = submarine equipment = { submarine_1 = { amount = 1 owner = TUN } } }				
+		# 10e Division des Sous-Marins
+		ship = { name = "Phoque" definition = submarine equipment = { submarine_1 = { amount = 1 owner = TUN } } }				
+		ship = { name = "Espadon" definition = submarine equipment = { submarine_1 = { amount = 1 owner = TUN } } }				
+		ship = { name = "Dauphin" definition = submarine equipment = { submarine_1 = { amount = 1 owner = TUN } } }				
+		# 17e Division des Sous-Marins
+		ship = { name = "Aréthuse" definition = submarine equipment = { submarine_1 = { amount = 1 owner = TUN } } }
+		ship = { name = "Atalante" definition = submarine equipment = { submarine_1 = { amount = 1 owner = TUN } } }
+		ship = { name = "La Vestale" definition = submarine equipment = { submarine_1 = { amount = 1 owner = TUN } } }
+		ship = { name = "La Sultane" definition = submarine equipment = { submarine_1 = { amount = 1 owner = TUN } } }
+	}		
+}
+
+### Air Wings
+air_wings = {
+	# Z.d'Op. Aériennes Africain -- Tunis
+	458 = {
+		# Groupement de Chasse du Nord-Africain
+		fighter_equipment_0 = {
+			owner = "TUN" 
+			amount = 48
+		}
+		# Groupement de Bombardment du Nord-Africain
+		tac_bomber_equipment_0 =  {
+			owner = "TUN" 
+			amount = 30
+		}
 	}
 }
 

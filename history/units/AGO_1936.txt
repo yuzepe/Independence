@@ -21,12 +21,17 @@ division_template = {
 }
 
 units = {
-	division= {
-		name = "Infantry Division"
+	division = {
+		name = "1a Caçadores de Angola"
 		location = 8248
 		division_template = "Infantry Division"
-		start_experience_factor = 0.1
-		start_equipment_factor = 0.5
+		start_experience_factor = 0.3
+	}
+	division = {
+		name = "2a Caçadores de Angola"
+		location = 10966
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
 	}
 }
 

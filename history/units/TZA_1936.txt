@@ -21,12 +21,12 @@ division_template = {
 }
 
 units = {
-	division= {
-		name = "Infantry Division"
-		location = 2196
+	division= {	  
+		name = "Southern Africa Force"
+		location = 12911
 		division_template = "Infantry Division"
-		start_experience_factor = 0.1
-		start_equipment_factor = 0.5
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
 	}
 }
 

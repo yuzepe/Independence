@@ -22,11 +22,30 @@ division_template = {
 
 units = {
 	division= {
-		name = "Infantry Division"
+		name = "Sierra Leone Force"
 		location = 2038
 		division_template = "Infantry Division"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.5
+	}
+	navy = {				
+		name = "South Atlantic Fleet"
+		base = 2038
+		location = 2038 # Sierra Leone
+		ship = { name = "Neptune" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SLE } } }	
+		ship = { name = "Dauntless" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SLE } } }
+		# Destroyer Division 4
+		ship = { name = "Vansittart" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SLE } } }	
+		ship = { name = "Venomous" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SLE } } }	
+		ship = { name = "Wivern" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SLE } } }	
+	}
+	navy = {				
+		name = "Submarine Flotilla"			
+		base = 2038 
+		location = 2038 # Sierra Leone
+		# Submarine Division 71
+		ship = { name = "Severn" definition = submarine equipment = { submarine_1 = { amount = 1 owner = SLE } } }		
+		ship = { name = "Clyde" definition = submarine equipment = { submarine_1 = { amount = 1 owner = SLE } } }		
 	}
 }
 

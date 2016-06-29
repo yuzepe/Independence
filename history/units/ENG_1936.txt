@@ -211,50 +211,6 @@ units = {
 
 	}
 	
-	###East Africa
-	division= {	
-		name = "East Africa Force"
-		location = 1939
-		division_template = "Colonial Garrison"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-
-	}
-	division= {	  
-		name = "Southern Africa Force"
-		location = 12911
-		division_template = "Colonial Garrison"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.3
-
-	}
-	division= {	
-		name = "Northern Rhodesia Groups"
-		location = 1939
-		division_template = "Colonial Garrison"			# Colonial militia (lowest equipment and experience)
-		force_equipment_variants = { infantry_equipment_0 = { owner = "ENG" } }
-		start_equipment_factor = 0.3
-
-	}
-
-	###West Africa
-	division= {	
-		name = "1 West African Force"
-		location = 2050
-		division_template = "Colonial Garrison"			# Colonial militia (lowest equipment and experience)
-		force_equipment_variants = { infantry_equipment_0 = { owner = "ENG" } }
-		start_equipment_factor = 0.15
-
-	}
-	division= {	  
-		name = "2 West African Force"
-		location = 10862 
-		division_template = "Colonial Garrison"			# Colonial militia (lowest equipment and experience)
-		force_equipment_variants = { infantry_equipment_0 = { owner = "ENG" } }
-		start_equipment_factor = 0.15
-
-	}
-	
 	### Far East Command ###
 	###Malaya
 	division= {	
@@ -273,18 +229,6 @@ units = {
 		start_equipment_factor = 0.15
 
 	}
-	###Ceylon
-	division= {	
-		name = "Ceylon Defense Force"
-		location = 7260
-		division_template = "Colonial Garrison"
-		force_equipment_variants = { infantry_equipment_0 = { owner = "ENG" } }
-		start_experience_factor = 0.1
-		start_equipment_factor = 0.15
-
-	}
-	
-
 	
 	##### NAVAL UNITS #####
 	### HOME COMMAND ###
@@ -527,17 +471,6 @@ units = {
 		ship = { name = "HMS Orion" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG version_name = "Emerald Class" } } }
 	}				
 	navy = {				
-		name = "South Atlantic Fleet"
-		base = 2038
-		location = 2038 # Sierra Leone
-		ship = { name = "HMS Neptune" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG version_name = "Emerald Class" } } }	
-		ship = { name = "HMS Dauntless" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG } } }
-		# Destroyer Division 4
-		ship = { name = "HMS Vansittart" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }	
-		ship = { name = "HMS Venomous" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }	
-		ship = { name = "HMS Wivern" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }	
-	}
-	navy = {				
 		name = "South America Squadron"
 		base = 12960
 		location = 12960 # Falkland Is.
@@ -545,24 +478,8 @@ units = {
 		ship = { name = "HMS Cumberland" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ENG version_name = "County Class" } } }
 		ship = { name = "HMS Ajax" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG version_name = "Emerald Class" } } }	
 	}				
-	navy = {				
-		name = "3rd Submarine Flotilla"			
-		base = 2038 
-		location = 2038 # Sierra Leone
-		# Submarine Division 71
-		ship = { name = "HMS Severn" definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG version_name = "O/P/R Class" } } }		
-		ship = { name = "HMS Clyde" definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG version_name = "O/P/R Class" } } }		
-	}
 
-	### FAR EAST ###			
-	navy = {				
-		name = "East Indies Fleet"
-		base = 10201
-		location = 10201 # Trincomalee, Ceylon
-		ship = { name = "HMS Danae" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG } } }
-		ship = { name = "HMS Durban" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG } } }
-		ship = { name = "HMS Despatch" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG } } }
-	}				
+	### FAR EAST ###				
 	navy = {				
 		name = "New Zealand Division"
 		base = 13056

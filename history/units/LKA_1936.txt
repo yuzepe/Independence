@@ -22,12 +22,28 @@ division_template = {
 
 units = {
 	division= {
-		name = "Infantry Division"
+		name = "1 Sri Lanka Force"
 		location = 10201
 		division_template = "Infantry Division"
 		start_experience_factor = 0.1
 		start_equipment_factor = 0.5
 	}
+	division= {	
+		name = "2 Sri Lanka Force"
+		location = 7260
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+
+	}
+	navy = {				
+		name = "East Indies Fleet"
+		base = 10201
+		location = 10201 # Trincomalee, Ceylon
+		ship = { name = "Danae" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = LKA } } }
+		ship = { name = "Durban" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = LKA } } }
+		ship = { name = "Despatch" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = LKA } } }
+	}			
 }
 
 instant_effect = {

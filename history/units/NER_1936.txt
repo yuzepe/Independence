@@ -21,8 +21,8 @@ division_template = {
 }
 
 units = {
-	division= {
-		name = "Infantry Division"
+	division= {	
+		name = "Niger Force"
 		location = 1473
 		division_template = "Infantry Division"
 		start_experience_factor = 0.1

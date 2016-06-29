@@ -21,12 +21,12 @@ division_template = {
 }
 
 units = {
-	division= {
-		name = "Infantry Division"
-		location = 5117
+	division= {	
+		name = "Force Publique du Congo"
+		location = 10968
 		division_template = "Infantry Division"
 		start_experience_factor = 0.1
-		start_equipment_factor = 0.5
+		start_equipment_factor = 0.3
 	}
 }
 

@@ -21,12 +21,19 @@ division_template = {
 }
 
 units = {
-	division= {
-		name = "Infantry Division"
+	division= {	
+		name = "Troupes de Sénégalais"
 		location = 4948
 		division_template = "Infantry Division"
-		start_experience_factor = 0.1
-		start_equipment_factor = 0.5
+		start_experience_factor = 0.2
+	}
+	navy = {				
+		name = "Flotte du Afrique de l'Ouest"			
+		base = 4948 
+		location = 4948 # Dakar			
+		ship = { name = "Jeanne d'Arc" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SEN } } }
+		ship = { name = "Duguay-Trouin" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SEN } } }
+		ship = { name = "Primauguet" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SEN } } }
 	}
 }
 

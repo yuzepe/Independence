@@ -47,15 +47,6 @@ units = {
 		start_equipment_factor = 0.3
 
 	}
-	#Sudan
-	division= {	
-		name = "Sudan Defense Force"
-		location = 12806
-		division_template = "Infantry Division"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.4
-
-	}
 	
 	### MEDITERRANIAN FLEET ###			
 	navy = {				

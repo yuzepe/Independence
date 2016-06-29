@@ -1,7 +1,7 @@
 
 state={
 	id=461
-	name="STATE_461"
+	name="STATE_461" #Northern Morocco
 	manpower = 3197719
 	
 	state_category = rural

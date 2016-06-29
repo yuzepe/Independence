@@ -229,137 +229,6 @@ units = {
 
 	}
 
-
-	##### Commando Superiore Africa #####
-
-
-	## Armata dell'Africa Orientale Italiana ##
-	# I Corpo d'Armata dell'A.O.I. #
-	division= {	
-		name = "26a Divisione di Fanteria 'Assietta'"
-		location = 12723
-		division_template = "Divisione di Fanteria"	
-		start_experience_factor = 0.3
-	}
-	division= {	
-		name = "30a Divisione di Fanteria 'Sabauda'"
-		location = 12723
-		division_template = "Divisione di Fanteria"	
-		start_experience_factor = 0.2
-	}
-	division= {	
-		name = "5a Divisione Alpina 'Pusteria'"
-		location = 12723
-		division_template = "Divisione Alpina"
-		start_experience_factor = 0.3
-	}
-	division= {	
-		name = "4a Divisione CC.NN. '3 Gennaio'"
-		location = 12723
-		division_template = "Divisione di Fanteria"		# CCNN militia, lower training and equipment
-		start_experience_factor = 0.2
-
-	}
-
-	# II Corpo d'Armata dell'A.O.I. #
-	division= {	
-		name = "19a Divisione di Fanteria 'Gavinana'"
-		location = 12766
-		division_template = "Divisione di Fanteria"	
-		start_experience_factor = 0.2
-	}
-	division= {	
-		name = "24a Divisione di Fanteria 'Gran Sasso'"
-		location = 12766
-		division_template = "Divisione di Fanteria"	
-		start_experience_factor = 0.2
-	}
-	division= {	
-		name = "3a Divisione CC.NN. '21 Aprile'"
-		location = 12766
-		division_template = "Divisione di Fanteria"		# CCNN militia, lower training and equipment
-		start_experience_factor = 0.2
-
-	}
-
-	# III Corpo d'Armata dell'A.O.I. #
-	division= {	
-		name = "27a Divisione di Fanteria 'Sila'"
-		location = 8043
-		division_template = "Divisione di Fanteria"	
-		start_experience_factor = 0.3
-	}
-	division= {	
-		name = "1a Divisione CC.NN. '23 Marzo'"
-		location = 8043
-		division_template = "Divisione di Fanteria"		# CCNN militia, lower training and equipment
-		start_experience_factor = 0.2
-
-	}
-
-	# IV Corpo d'Armata dell'A.O.I. #
-	division= {	
-		name = "5a Divisione di Fanteria 'Cosseria'"
-		location = 8043
-		division_template = "Divisione di Fanteria"	
-		start_experience_factor = 0.2
-	}
-	division= {	
-		name = "2a Divisione CC.NN. '28 Ottobre'"
-		location = 8043
-		division_template = "Divisione di Fanteria"		# CCNN militia, lower training and equipment
-		start_experience_factor = 0.2
-
-	}
-	division= {	
-		name = "5a Divisione CC.NN. '1 Febbraio'"
-		location = 8043
-		division_template = "Divisione di Fanteria"		# CCNN militia, lower training and equipment
-		start_experience_factor = 0.2
-
-	}
-
-	# Corpo d'Armata Eritreo #
-	division= {	
-		name = "1a Divisione Coloniale 'Eritrea'"
-		location = 12766
-		division_template = "Divisione Coloniale"		# Colonial militia, lower training and equipment
-		force_equipment_variants = { infantry_equipment_0 = { owner = "ITA" } }
-	}
-	division= {	
-		name = "2a Divisione Coloniale 'Eritrea'"
-		location = 12766
-		division_template = "Divisione Coloniale"		# Colonial militia, lower training and equipment
-		force_equipment_variants = { infantry_equipment_0 = { owner = "ITA" } }
-	}
-
-	# Corpo d'Armata Libico #
-	division= {	
-		name = "29a Divisione di Fanteria 'Peloritana'"
-		location = 11014
-		division_template = "Divisione di Fanteria"	
-		start_experience_factor = 0.2
-	}
-	division= {	
-		name = "1a Divisione Coloniale 'Libia'"
-		location = 2063
-		division_template = "Divisione Coloniale"		# Colonial militia, lower training and equipment
-		force_equipment_variants = { infantry_equipment_0 = { owner = "ITA" } }
-	}
-	division= {	
-		name = "1a Divisione Coloniale 'Somalia'"
-		location = 2020
-		division_template = "Divisione Coloniale"		# Colonial militia, lower training and equipment
-		force_equipment_variants = { infantry_equipment_0 = { owner = "ITA" } }
-	}
-	division= {	
-		name = "6a Divisione CC.NN. 'Tevere'"
-		location = 2063
-		division_template = "Divisione di Fanteria"		# CCNN militia, lower training and equipment
-		start_experience_factor = 0.2
-	}
-
-
 	##### NAVAL UNITS #####
 	### 1st FLEET ###
 	navy = {					
@@ -594,35 +463,6 @@ units = {
 		ship = { name = "RM Medusa" definition = submarine equipment = { submarine_1 = { amount = 1 owner = ITA version_name = "Sirena Class" } } }
 		ship = { name = "RM Anfitrite" definition = submarine equipment = { submarine_1 = { amount = 1 owner = ITA version_name = "Sirena Class" } } }
 	}					
-
-	### AFRICA ###								
-	navy = {					
-		name = "Comando Navale Mar Rosso"				
-		base = 12766 
-		location = 12766 # Asmara, Eritrea		
-		# 3a Squadriglia Cacciatorpedindiere
-		ship = { name = "RM Francesco Nullo" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }
-		ship = { name = "RM Nazario Sauro" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }	
-		ship = { name = "RM Cesare Battisti" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }	
-		ship = { name = "RM Daniele Manin" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }	
-		# 5a Squadriglia Cacciatorpedindiere
-		ship = { name = "RM Leone" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }	
-		ship = { name = "RM Pantera" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }	
-		ship = { name = "RM Tigre" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }	
-		# 5a Squadriglia Torpedindiere de Mar Rosso
-		ship = { name = "RM Giovanni Acerbi" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }	
-		ship = { name = "RM Vincenzo Giordano Orsini" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }	
-	}								
-	navy = {					
-		name = "8a Gruppo Sommergibili"				
-		base = 12766 
-		location = 12766 # Asmara, Eritrea		
-		# 81a Squadriglia Sommergibili
-		ship = { name = "RM Luigi Settembrini" definition = submarine equipment = { submarine_1 = { amount = 1 owner = ITA version_name = "Bandiera Class" } } }
-		ship = { name = "RM Ruggiero Settimo" definition = submarine equipment = { submarine_1 = { amount = 1 owner = ITA version_name = "Bandiera Class" } } }
-		ship = { name = "RM Salpa" definition = submarine equipment = { submarine_1 = { amount = 1 owner = ITA version_name = "Sirena Class" } } }
-		ship = { name = "RM Serpente " definition = submarine equipment = { submarine_1 = { amount = 1 owner = ITA version_name = "Sirena Class" } } }
-	}					
 }
 
 ### Air Wings ###
@@ -685,22 +525,6 @@ air_wings = {
 		nav_bomber_equipment_1 = {
 			owner = "ITA" 
 			amount = 24
-		}
-	}
-
-	### Commando Aeronautica Africa Orientale -- Eritrea
-	550 = {
-		fighter_equipment_0 =  {
-			owner = "ITA" 
-			amount = 40
-		}
-		tac_bomber_equipment_0 =  {
-			owner = "ITA" 
-			amount = 32
-		}
-		CAS_equipment_1 =  {
-			owner = "ITA" 
-			amount = 48
 		}
 	}
 }
