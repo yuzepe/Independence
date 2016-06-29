@@ -49,3 +49,589 @@ RAJ = {
 	surnames = { Devi Singh Kumar Das Kaur Thapa "Singh Thapa" Rana "Bahadur Rana"  }
 	callsigns = { }
 }
+
+NGA = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+COD = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+TZA = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+MAR = {
+	male = {
+		names = { Karim 
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali 
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid 
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
+		 }
+	}
+	female = {
+		names = { }
+	}
+	surnames = { Muammar "al-Baghdadi" "al-Basri" "al-Ghazzawi" "al-Halabi" "al-Hamawi" "al-Himsi" 
+			"al-Mawsili" "al-Nablusi" "al-Qudsi" "al-Shami"  
+			"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"   
+			"ibn Umar" "ibn Uthman" "ibn Yusuf" 
+	
+	}
+	callsigns = { }
+}
+
+KEN = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+DZA = {
+	male = {
+		names = { Karim 
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali 
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid 
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
+		 }
+	}
+	female = {
+		names = { }
+	}
+	surnames = { Muammar "al-Baghdadi" "al-Basri" "al-Ghazzawi" "al-Halabi" "al-Hamawi" "al-Himsi" 
+			"al-Mawsili" "al-Nablusi" "al-Qudsi" "al-Shami"  
+			"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"   
+			"ibn Umar" "ibn Uthman" "ibn Yusuf" 
+	
+	}
+	callsigns = { }
+}
+
+UGA = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+MOZ = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+CIV = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+AGO = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+SOM = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+TUN = {
+	male = {
+		names = { Karim 
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali 
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid 
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
+		 }
+	}
+	female = {
+		names = { }
+	}
+	surnames = { Muammar "al-Baghdadi" "al-Basri" "al-Ghazzawi" "al-Halabi" "al-Hamawi" "al-Himsi" 
+			"al-Mawsili" "al-Nablusi" "al-Qudsi" "al-Shami"  
+			"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"   
+			"ibn Umar" "ibn Uthman" "ibn Yusuf" 
+	
+	}
+	callsigns = { }
+}
+
+SDN = {
+	male = {
+		names = { Karim 
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali 
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid 
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
+		 }
+	}
+	female = {
+		names = { }
+	}
+	surnames = { Muammar "al-Baghdadi" "al-Basri" "al-Ghazzawi" "al-Halabi" "al-Hamawi" "al-Himsi" 
+			"al-Mawsili" "al-Nablusi" "al-Qudsi" "al-Shami"  
+			"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"   
+			"ibn Umar" "ibn Uthman" "ibn Yusuf" 
+	
+	}
+	callsigns = { }
+}
+
+GHA = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+GAB = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+GNQ = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+ERI = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+SLE = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+GMB = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+GNB = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+SEN = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+NER = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+NAM = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+CAF = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+BWA = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+MRT = {
+	male = {
+		names = { Karim 
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali 
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid 
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
+		 }
+	}
+	female = {
+		names = { }
+	}
+	surnames = { Muammar "al-Baghdadi" "al-Basri" "al-Ghazzawi" "al-Halabi" "al-Hamawi" "al-Himsi" 
+			"al-Mawsili" "al-Nablusi" "al-Qudsi" "al-Shami"  
+			"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"   
+			"ibn Umar" "ibn Uthman" "ibn Yusuf" 
+	
+	}
+	callsigns = { }
+}
+
+ZMB = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+MLI = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+
+ARE = {
+	male = {
+		names = { Karim 
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali 
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid 
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
+		 }
+	}
+	female = {
+		names = { }
+	}
+	surnames = { Muammar "al-Baghdadi" "al-Basri" "al-Ghazzawi" "al-Halabi" "al-Hamawi" "al-Himsi" 
+			"al-Mawsili" "al-Nablusi" "al-Qudsi" "al-Shami"  
+			"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"   
+			"ibn Umar" "ibn Uthman" "ibn Yusuf" 
+	
+	}
+	callsigns = { }
+}
+
+KWT = {
+	male = {
+		names = { Karim 
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali 
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid 
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
+		 }
+	}
+	female = {
+		names = { }
+	}
+	surnames = { Muammar "al-Baghdadi" "al-Basri" "al-Ghazzawi" "al-Halabi" "al-Hamawi" "al-Himsi" 
+			"al-Mawsili" "al-Nablusi" "al-Qudsi" "al-Shami"  
+			"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"   
+			"ibn Umar" "ibn Uthman" "ibn Yusuf" 
+	
+	}
+	callsigns = { }
+}
+
+GUY = {
+	male = {
+		names = { 
+			Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
+			Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
+			"Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastão Getúlio Henrique Hermes Humberto Isaías
+			João Joaquim José Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
+			Nereu Nilo Paulo Pedro Prudente Silviano Tancredo Urbano Venceslau Vital
+		  }
+	}
+	female = {
+		names = { }
+	}
+	surnames = { 
+		Barreto Bernardes Bittencourt Brandão Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
+		"da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragança" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
+		"de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvão Jordão
+		Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
+		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
+	}
+	callsigns = { }
+}
+
+SUR = {
+	male = {
+		names = { 
+			Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
+			Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
+			"Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastão Getúlio Henrique Hermes Humberto Isaías
+			João Joaquim José Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
+			Nereu Nilo Paulo Pedro Prudente Silviano Tancredo Urbano Venceslau Vital
+		  }
+	}
+	female = {
+		names = { }
+	}
+	surnames = { 
+		Barreto Bernardes Bittencourt Brandão Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
+		"da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragança" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
+		"de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvão Jordão
+		Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
+		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
+	}
+	callsigns = { }
+}
+
+BLZ = {
+	male = {
+		names = { 
+			Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
+			Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
+			"Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastão Getúlio Henrique Hermes Humberto Isaías
+			João Joaquim José Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
+			Nereu Nilo Paulo Pedro Prudente Silviano Tancredo Urbano Venceslau Vital
+		  }
+	}
+	female = {
+		names = { }
+	}
+	surnames = { 
+		Barreto Bernardes Bittencourt Brandão Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
+		"da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragança" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
+		"de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvão Jordão
+		Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
+		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
+	}
+	callsigns = { }
+}
+
+LKA = {
+	male = {
+		names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu  }
+	}
+	female = {
+		names = { }
+	}
+	surnames = { Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian Jiang Wei Ting Shen Fang Jin Qiu }
+	callsigns = { }
+}

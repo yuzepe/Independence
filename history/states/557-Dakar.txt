@@ -1,0 +1,23 @@
+
+state={
+	id=557
+	name="STATE_557" # Mauritania
+	manpower = 429200
+	
+	state_category = wasteland
+
+	history={
+		owner = MRT
+		victory_points = {
+			1115 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = MRT
+	}
+
+	provinces={
+		1115 1897 1962 5034 5077 7943 7992 8035 8058 10725 10779 10814 10838 10868 
+	}
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=542
+	name="STATE_542" #Botswana
+	manpower = 234000
+	
+	state_category = wasteland
+	
+	resources={
+		chromium=168
+	}
+
+	history={
+		owner = BWA
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			1580 1 
+		}
+		add_core_of = BWA
+	}
+
+	provinces={
+		1580 8214 10525 12940 12963 
+	}
+}

@@ -86,7 +86,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Hashim al-Atassi"
+	name = "Hery Rajaonarimampianina"
 	desc = ""
 	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_2.dds"
 	ideology = liberalism
@@ -96,7 +96,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Antun Saadeh"
+	name = "Hery Rajaonarimampianina"
 	desc = ""
 	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
 	ideology = fascism_ideology
@@ -106,7 +106,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ghazi bin Faisal"
+	name = "Hery Rajaonarimampianina"
 	desc = ""
 	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_2.dds"
 	ideology = despotism
@@ -116,7 +116,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Khalid Bakdash"
+	name = "Hery Rajaonarimampianina"
 	desc = ""
 	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_1.dds"
 	ideology = socialism
